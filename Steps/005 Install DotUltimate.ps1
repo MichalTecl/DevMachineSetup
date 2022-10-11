@@ -1,0 +1,1 @@
+choco install dotultimate -y --params "'/NoCpp /NoTeamCityAddin /NoRider'"
